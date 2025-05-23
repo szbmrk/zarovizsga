@@ -1,6 +1,6 @@
 # Programtervező informatikus (BSc) szak záróvizsga tételek
 
-### 1. tétel
+## 1. tétel
 
 **a) Bevezetés az informatikába**
 - Az információ fogalma, mérése, útja
@@ -19,7 +19,7 @@
 - Lineáris és SLD rezolúció
 - Prolog alapok
 
-### 2. tétel
+## 2. tétel
 
 **a) Magasszintű programozási nyelvek I**
 - Tömbök és listák
@@ -42,7 +42,7 @@
 - Elemi algoritmusok alkalmazása
 - A halmaz adatszerkezet különböző konstrukciói
 
-### 3. tétel
+## 3. tétel
 
 **a) Adatbázisrendszerek I**
 - Hierarchikus, hálós és relációs modellek
@@ -60,7 +60,7 @@
 - Programozási tételek értelmezése különböző homogén adatszerkezetek esetében
 - Rekurzió: rekurzió és iteráció, a fa adatszerkezet és műveletei
 
-### 4. tétel
+## 4. tétel
 
 **a) Magasszintű programozási nyelvek I**
 - Alaptípusok, változók, konstansok, literálok
@@ -84,7 +84,7 @@
 - Adatmentés és archiválás módszerei és eszközei
 - Shell-scriptek
 
-### 5. tétel
+## 5. tétel
 
 **a) Magasszintű programozási nyelvek II**
 - Az OOP alapelvei, alapfogalmai
@@ -105,7 +105,7 @@
 - Visszaírási módok
 - A dirty és valid flag-ek szerepe
 
-### 6. tétel
+## 6. tétel
 
 **a) Numerikus matematika**
 - Hibák típusa, hibaterjedés
@@ -124,7 +124,7 @@
 - Hibatűrő diszk rendszerek
 - Jogosultsági rendszerek az operációs rendszerekben
 
-### 7. tétel
+## 7. tétel
 
 **a) Magasszintű programozási nyelvek II**
 - Öröklődés
@@ -145,7 +145,7 @@
 - Szerepkörök
 - Tranzakció kezelés, ROLLBACK, COMMIT
 
-### 8. tétel
+## 8. tétel
 
 **a) Magasszintű programozási nyelvek II**
 - Absztrakt metódusok és osztályok
@@ -165,7 +165,7 @@
 - Szemantikai elemzés kérdései
 - A program fordítás lépései
 
-### 9. tétel
+## 9. tétel
 
 **a) Formális nyelvek**
 - Ábécék, szavak, formális nyelvek
@@ -183,7 +183,7 @@
 - Rendszerfejlesztés eszközei, feladatkövetés, verziókövetés
 - Tesztelési technikák, tesztelés szintjei
 
-### 10. tétel
+## 10. tétel
 
 **a) Hálózati architektúrák és protokollok**
 - Csomagkapcsolt hálózatok működése
@@ -201,7 +201,7 @@
 - A web service jellemzői
 - A WCF architektúrája, az ASMX és a WCF közötti eltérések
 
-### 11. tétel
+## 11. tétel
 
 **a) A rendszerfejlesztés technológiája**
 - Az életciklus dokumentumai
@@ -222,7 +222,7 @@
 - SAT, DPLL és DIMACS
 - SMT és SMT-LIB
 
-### 12. tétel
+## 12. tétel
 
 **a) Adatbázisrendszerek II**
 - A PL/SQL alapjai: típusok, változók, konstansok, vezérlési szerkezetek
@@ -254,7 +254,7 @@
   - Z-Buffer algoritmus
 - Flat-, Gouraud- és Phong árnyalás
 
-### 13. tétel
+## 13. tétel
 
 **a) Webprogramozás II**
 - A dinamikus weboldalak jellemzői, összehasonlításuk a statikus tartalmakkal
@@ -279,7 +279,7 @@
 - A jól bevált módszerek szerepe a szoftverfejlesztésben
 - A TDD bemutatása, egyéb jól bevált módszerek
 
-### 14. tétel
+## 14. tétel
 
 **a) Programozási technológiák**
 - Az osztály jellemzői: felület és megvalósítás
