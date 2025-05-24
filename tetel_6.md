@@ -1,0 +1,3 @@
+# Numerikus matematika
+
+# Operációs rendszerek
